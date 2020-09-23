@@ -1,4 +1,4 @@
-# Where you start your learnig journey
+# Where you start your learning journey
 
 
 This repository is for:
@@ -8,7 +8,7 @@ This repository is for:
 
 ## Action required
 
-- ⚠️ Navigate to the issues tab and start working on the task
+- ⚠️ Navigate to the [issues tab](https://github.com/divya-vaishnavi/LearnRuby/issues) and start working on the task
 - 🤵🙋🏿 When you get stuck, tag /raisehand for help in the comment session with the deatils of the issue
 - ✨ check the task as you complete them
 
